@@ -1,2 +1,2 @@
 # bare_metal
- This is a directory of bre metal programming with C.
+ This is a directory of bare metal programming with C.

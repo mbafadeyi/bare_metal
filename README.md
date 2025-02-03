@@ -1,2 +1,2 @@
-# test
- this is a test
+# bare_metal
+ This is a directory of bre metal programming with C.
